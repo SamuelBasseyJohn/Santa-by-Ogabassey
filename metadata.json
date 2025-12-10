@@ -1,0 +1,7 @@
+{
+  "name": "Santa by Ogabassey",
+  "description": "A festive chatbot where users can share their Christmas gadget wishes with Santa Claus, who represents the Ogabassey brand. Santa responds based on the user's desired price, offering deals, payment plans, or encouragement to save, all in a jolly, Christmas-themed personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
